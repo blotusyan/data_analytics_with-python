@@ -1,1 +1,0 @@
-CreateSubList.bat vidlist.txt
