@@ -1,0 +1,4 @@
+i:\video_data\d2g1700_failsafe\videos\br_ats\fe_640x400\annotation_files\ats_dirtfilm25%_3_87klux_sunnywithclouds_xml.txt
+i:\video_data\d2g1700_failsafe\videos\br_ats\fe_640x400\annotation_files\ats_dirtfilm25%_3_87klux_sunnywithclouds_xml.txt
+annotation_files\ats_dirtfilm25%_3_87klux_sunnywithclouds_xml.txt
+ats_dirtfilm25%_3_87klux_sunnywithclouds_xml.txt
